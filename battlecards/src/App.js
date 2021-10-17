@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. yooooooooooooo
+          welcome to battlecards 
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.sitedrole.com/images-droles-divers/a-table/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+        start game
         </a>
       </header>
     </div>
